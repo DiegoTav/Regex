@@ -9,4 +9,4 @@ Quantificadores.
 
 ## Bônus: Jogo da velha usando Regex
 
-Obs: Feito com base no materia fornecido pela IFSP - Campus Barretos.
+Obs: Feito com base no material fornecido pela IFSP - Campus Barretos.
